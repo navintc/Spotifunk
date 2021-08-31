@@ -1,0 +1,16 @@
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.exe
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.deps.json
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.runtimeconfig.json
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.runtimeconfig.dev.json
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.dll
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\Spotifunk.pdb
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csprojAssemblyReference.cache
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.main.resources
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.Properties.Resources.resources
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csproj.GenerateResource.cache
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.AssemblyInfoInputs.cache
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.AssemblyInfo.cs
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csproj.CoreCompileInputs.cache
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.dll
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.pdb
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.genruntimeconfig.cache
