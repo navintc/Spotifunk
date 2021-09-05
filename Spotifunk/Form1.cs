@@ -7,12 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
+
 
 namespace Spotifunk
 {
+
+
+
     public partial class main : Form
     {
-       
 
         public main()
         {
@@ -50,5 +54,29 @@ namespace Spotifunk
         {
             mainViews.SelectedIndex = 1;
         }
+
+        private void requests_Click(object sender, EventArgs e)
+        {
+            
+            NewFriend newFriendForm = new NewFriend();
+            newFriendForm.ShowDialog(); 
+        }
+    }
+
+
+    public class friendReqs
+    {
+        private string _friendLink = string.Empty;
+
+        public void friendReqSet(string form2FriendLink)
+        {
+        /*https://open.spotify.com/user/gbpym67h3gwlaqeezu6dw7yfa?si=764705ebf52d4789 
+         */
+            
+            _friendLink = form2FriendLink;
+            Debug.WriteLine(_friendLink);
+        }
+
+
     }
 }

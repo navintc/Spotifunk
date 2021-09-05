@@ -29,12 +29,58 @@ namespace Spotifunk
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.label1 = new System.Windows.Forms.Label();
+            this.friendRequestSend = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(290, 20);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Paste the Spotify Profile Link of your friend";
+            // 
+            // friendRequestSend
+            // 
+            this.friendRequestSend.Location = new System.Drawing.Point(12, 39);
+            this.friendRequestSend.Name = "friendRequestSend";
+            this.friendRequestSend.Size = new System.Drawing.Size(322, 27);
+            this.friendRequestSend.TabIndex = 1;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(202, 76);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(132, 29);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Send a Request";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // NewFriend
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "NewFriend";
+            this.ClientSize = new System.Drawing.Size(346, 118);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.friendRequestSend);
+            this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Location = new System.Drawing.Point(100, 200);
+            this.Name = "NewFriend";
+            this.Text = "Add a New Friend";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox friendRequestSend;
+        private System.Windows.Forms.Button button1;
     }
 }

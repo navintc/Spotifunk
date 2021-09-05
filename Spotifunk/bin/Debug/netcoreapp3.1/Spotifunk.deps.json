@@ -7,8 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Spotifunk/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.7.2"
+        },
         "runtime": {
           "Spotifunk.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.0"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.2.0"
+          }
         }
       }
     }
@@ -18,6 +40,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H0CuOpntd9Ve3gAfOHTBYx2EPDZ3cdXcVY2LzXLneZbxl/7BMps1sPVzMsrfsEWynx3O9mCeKq18rMLgF6vZfg==",
+      "path": "awssdk.core/3.7.3",
+      "hashPath": "awssdk.core.3.7.3.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vMxEo0yQmLE+qHRSSs2WAFqLNrYD9+7uQi2PMMXuAj8psu5DEPcYGkwJHhcKimf67INvcYzwX+G666YWHyxnAw==",
+      "path": "awssdk.s3/3.7.2",
+      "hashPath": "awssdk.s3.3.7.2.nupkg.sha512"
     }
   }
 }

@@ -14,5 +14,11 @@ namespace Spotifunk
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            friendReqs newFriend = new friendReqs();
+            newFriend.friendReqSet(friendRequestSend.Text);
+        }
     }
 }

@@ -77,6 +77,7 @@ namespace Spotifunk
             this.requests.Size = new System.Drawing.Size(23, 23);
             this.requests.TabIndex = 1;
             this.requests.UseVisualStyleBackColor = true;
+            this.requests.Click += new System.EventHandler(this.requests_Click);
             // 
             // listBox1
             // 

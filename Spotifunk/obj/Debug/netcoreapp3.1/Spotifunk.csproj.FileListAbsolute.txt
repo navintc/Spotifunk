@@ -1,4 +1,3 @@
-D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.main.resources
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.NewFriend.resources
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.Properties.Resources.resources
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csproj.GenerateResource.cache
@@ -15,3 +14,7 @@ D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.dll
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.pdb
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.genruntimeconfig.cache
 D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csprojAssemblyReference.cache
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.csproj.CopyComplete
+D:\Coventry\Spotifunk\Spotifunk\Spotifunk\obj\Debug\netcoreapp3.1\Spotifunk.main.resources
