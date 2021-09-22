@@ -70,10 +70,12 @@ namespace Spotifunk
 
         public void friendReqSet(string form2FriendLink)
         {
-        /*https://open.spotify.com/user/gbpym67h3gwlaqeezu6dw7yfa?si=764705ebf52d4789 
-         */
-            
+
+
+            //this will take the link and remove unnessasary text to create a better username for each friend
             _friendLink = form2FriendLink;
+            _friendLink = _friendLink.Replace("https://open.spotify.com/user/","");
+            _friendLink = _friendLink.Substring(0, _friendLink.LastIndexOf("?"));
             Debug.WriteLine(_friendLink);
         }
 
