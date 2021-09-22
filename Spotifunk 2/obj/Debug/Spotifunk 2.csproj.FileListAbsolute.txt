@@ -1,0 +1,13 @@
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\bin\Debug\DatabaseLocal.mdf
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\bin\Debug\DatabaseLocal_log.ldf
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\bin\Debug\Spotifunk 2.exe.config
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\bin\Debug\Spotifunk 2.exe
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\bin\Debug\Spotifunk 2.pdb
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk 2.csproj.AssemblyReference.cache
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk_2.Form1.resources
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk_2.Properties.Resources.resources
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk 2.csproj.GenerateResource.cache
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk 2.csproj.CoreCompileInputs.cache
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk 2.exe
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk 2.pdb
+C:\Users\Navin 5\Desktop\Fuck Files\Coventry\Spotifunk 2\Spotifunk 2\Spotifunk 2\obj\Debug\Spotifunk_2.mainScreen.resources

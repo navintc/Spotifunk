@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotifunk 2", "Spotifunk 2\Spotifunk 2.csproj", "{D44A36C9-28F6-4D77-99BE-78CB9F92D9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D44A36C9-28F6-4D77-99BE-78CB9F92D9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44A36C9-28F6-4D77-99BE-78CB9F92D9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44A36C9-28F6-4D77-99BE-78CB9F92D9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44A36C9-28F6-4D77-99BE-78CB9F92D9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BA1F1B-4D8F-435D-BF36-C320DDEFDADD}
+	EndGlobalSection
+EndGlobal
