@@ -31,10 +31,11 @@ namespace Spotifunk_2
         {
             this.mainViews = new System.Windows.Forms.TabControl();
             this.mainScreenTab = new System.Windows.Forms.TabPage();
-            this.friendReqs = new System.Windows.Forms.TabPage();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.friends = new System.Windows.Forms.TabPage();
             this.friendsChat = new System.Windows.Forms.TabPage();
+            this.friendReqs = new System.Windows.Forms.TabPage();
+            this.lbl_welcome = new System.Windows.Forms.Label();
             this.mainViews.SuspendLayout();
             this.mainScreenTab.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -61,16 +62,6 @@ namespace Spotifunk_2
             this.mainScreenTab.Text = "mainScreenTab";
             this.mainScreenTab.UseVisualStyleBackColor = true;
             // 
-            // friendReqs
-            // 
-            this.friendReqs.Location = new System.Drawing.Point(4, 25);
-            this.friendReqs.Name = "friendReqs";
-            this.friendReqs.Padding = new System.Windows.Forms.Padding(3);
-            this.friendReqs.Size = new System.Drawing.Size(223, 424);
-            this.friendReqs.TabIndex = 1;
-            this.friendReqs.Text = "friendReqs";
-            this.friendReqs.UseVisualStyleBackColor = true;
-            // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.friends);
@@ -86,7 +77,7 @@ namespace Spotifunk_2
             this.friends.Location = new System.Drawing.Point(4, 25);
             this.friends.Name = "friends";
             this.friends.Padding = new System.Windows.Forms.Padding(3);
-            this.friends.Size = new System.Drawing.Size(206, 389);
+            this.friends.Size = new System.Drawing.Size(215, 395);
             this.friends.TabIndex = 0;
             this.friends.Text = "friends";
             this.friends.UseVisualStyleBackColor = true;
@@ -101,11 +92,32 @@ namespace Spotifunk_2
             this.friendsChat.Text = "friendsChat";
             this.friendsChat.UseVisualStyleBackColor = true;
             // 
+            // friendReqs
+            // 
+            this.friendReqs.Location = new System.Drawing.Point(4, 25);
+            this.friendReqs.Name = "friendReqs";
+            this.friendReqs.Padding = new System.Windows.Forms.Padding(3);
+            this.friendReqs.Size = new System.Drawing.Size(223, 424);
+            this.friendReqs.TabIndex = 1;
+            this.friendReqs.Text = "friendReqs";
+            this.friendReqs.UseVisualStyleBackColor = true;
+            // 
+            // lbl_welcome
+            // 
+            this.lbl_welcome.AutoEllipsis = true;
+            this.lbl_welcome.AutoSize = true;
+            this.lbl_welcome.Location = new System.Drawing.Point(7, 8);
+            this.lbl_welcome.Name = "lbl_welcome";
+            this.lbl_welcome.Size = new System.Drawing.Size(40, 17);
+            this.lbl_welcome.TabIndex = 1;
+            this.lbl_welcome.Text = "Hello";
+            // 
             // mainScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(235, 493);
+            this.Controls.Add(this.lbl_welcome);
             this.Controls.Add(this.mainViews);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "mainScreen";
@@ -115,6 +127,7 @@ namespace Spotifunk_2
             this.mainScreenTab.ResumeLayout(false);
             this.tabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -126,5 +139,6 @@ namespace Spotifunk_2
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage friends;
         private System.Windows.Forms.TabPage friendsChat;
+        private System.Windows.Forms.Label lbl_welcome;
     }
 }
